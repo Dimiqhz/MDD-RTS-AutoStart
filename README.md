@@ -1,4 +1,4 @@
-# MDD RTS AutoStart Script
+#№ MDD RTS AutoStart Script
 
 A script to automatically start locomotives in MaDaDev RTrainSim (MDD RTS), enabling quick and effortless simulations.
 
